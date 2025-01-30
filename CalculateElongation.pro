@@ -1,4 +1,4 @@
-function CalculateElongation, r_sta_pos, r_sta_sun, r_sun_pos
+function CalculateElongation, r_obs_pos, r_obs_sun, r_sun_pos
 
 ; ______________________________________________________________________________
 
